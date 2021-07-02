@@ -103,6 +103,30 @@ nav a:hover{
 	margin-top: 10px;
 }
 
+main{
+	width: 940px;
+	margin: 0 auto;
+}
+
+form{
+	margin: 40px 0;
+
+}
+
+form label{
+	display: block;
+}
+
+form input{
+	display: block;
+	margin: 0 0 14px 0;
+	padding: 10px 15px;
+} 
+
+.radio-bt {
+	display: inline;
+}
+
 footer {
 	position: relative;
 	height: 125px;
