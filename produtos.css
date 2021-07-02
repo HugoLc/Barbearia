@@ -69,10 +69,21 @@ nav a:hover{
 	/**border-color: black;
 	border-width: 2px;
 	border-style: solid;*/
-
-
-
 }
+
+.produtos li:hover{
+	border-color: yellow;
+}
+
+.produtos li:active{
+	border-color: pink;
+}
+
+/* quando o li dentro da classe produtos receber hover, altera o h2 dentro do li*/
+.produtos li:hover h2{
+	font-size: 35px;
+}
+
 
 .produtos h2{
 	font-size: 30px;
