@@ -103,14 +103,22 @@ nav a:hover{
 }
 
 footer {
-		width: 100%;
-	text-align: center;
+	position: relative;
+	height: 125px;
+	width: 100%;
+	/*text-align: center;*/
 	background: url("bg-footer.jpg");
-	padding: 13px 0; 
+	padding: 13px 0;
+	text-align: center;
+	
 }
 
 footer p {
+	/*text-align: center;*/
 	padding: 20px 0 0 0;
+	font-weight: bold;
+	font-size: 13px;
+	color: #000000;
 }
 
 .logo-footer {
