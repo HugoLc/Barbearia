@@ -101,3 +101,19 @@ nav a:hover{
 	font-weight: bold;
 	margin-top: 10px;
 }
+
+footer {
+		width: 100%;
+	text-align: center;
+	background: url("bg-footer.jpg");
+	padding: 13px 0; 
+}
+
+footer p {
+	padding: 20px 0 0 0;
+}
+
+.logo-footer {
+	width: 100px;
+	height: 100px;
+}
