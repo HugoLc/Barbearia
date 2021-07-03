@@ -133,6 +133,11 @@ form input, form textarea{
 	resize: none;
 } 
 
+.atendimento{
+	margin: 20px 0 0 0;
+
+}
+
 #lb-news{
 	margin: 20px 0;
 }
