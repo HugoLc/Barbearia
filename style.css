@@ -142,6 +142,24 @@ form input, form textarea{
 	margin: 20px 0;
 }
 
+.enviar{
+	width: 20%;
+	border: none;
+	border-radius: 5px;
+	background: cadetblue;
+	color: white;
+	padding: 15px 0;
+	font-size: 18px;
+	font-weight: bold;
+	transition: 0.3s background;
+	cursor: pointer;
+}
+
+.enviar:hover{
+	background: aqua;
+	color: black;
+}
+
 footer {
 	position: relative;
 	height: 125px;
