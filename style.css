@@ -113,18 +113,28 @@ form{
 
 }
 
-form label{
+form label, form p{
 	display: block;
+	font-size: 20px;
+	margin: 0 0 10px;
 }
 
-form input{
+.radio-check{
+	display: inline-block;
+	width: 13px;
+	margin: 0 5px;
+}
+
+form input, form textarea{
 	display: block;
 	margin: 0 0 14px 0;
 	padding: 10px 15px;
+	width: 30%;
+	resize: none;
 } 
 
-.radio-bt {
-	display: inline;
+#lb-news{
+	margin: 20px 0;
 }
 
 footer {
