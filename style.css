@@ -151,13 +151,14 @@ form input, form textarea{
 	padding: 15px 0;
 	font-size: 18px;
 	font-weight: bold;
-	transition: 0.3s background;
+	transition: 0.3s;
 	cursor: pointer;
 }
 
 .enviar:hover{
 	background: aqua;
 	color: black;
+	transform: scale(1.05);
 }
 
 footer {
