@@ -161,6 +161,22 @@ form input, form textarea{
 	transform: scale(1.05);
 }
 
+table{
+	margin: 20px 0 40px;
+}
+
+thead{
+	background: rgb(122,122,134);
+	background: linear-gradient(90deg, rgba(122,122,134,1) 0%, rgba(95,158,160,1) 100%);
+	color: white;
+	font-weight: bold;
+}
+
+td, th{
+	border: 1px solid black;
+	padding: 8px 15px;
+}
+
 footer {
 	position: relative;
 	height: 125px;
