@@ -240,3 +240,17 @@ footer p {
 .img-beneficios{
 	width: 60%;
 }
+
+.mapa{
+	padding: 3em 0;
+}
+
+.mapa p{
+	margin: 0 0 2em;
+	text-align: center;
+}
+
+.video{
+	width: 60%;
+	margin: 1em auto;
+}
