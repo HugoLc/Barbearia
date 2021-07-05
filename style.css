@@ -237,8 +237,40 @@ footer p {
 	font-style: italic;
 }
 
+.mapa{
+	padding: 3em 0;
+}
+
+.mapa p{
+	margin: 0 0 2em;
+	text-align: center;
+}
+
+.beneficios{
+	padding: 3em 0;
+}
+
 .img-beneficios{
 	width: 60%;
+}
+
+.conteudo-benef{
+	width: 640px;
+	margin: 0 auto;
+}
+
+.lista-benef{
+	display: inline-block;
+	width: 40%;
+	vertical-align: top;
+}
+
+.itens{
+	line-height: 1.5em;
+}
+
+.itens:first-child{
+	font-weight: bold;
 }
 
 .mapa{
@@ -252,5 +284,5 @@ footer p {
 
 .video{
 	width: 60%;
-	margin: 1em auto;
+	margin: 2em auto;
 }
