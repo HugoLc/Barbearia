@@ -293,4 +293,16 @@ footer p {
 .video{
 	width: 60%;
 	margin: 2em auto;
+
+}
+
+.frame{
+	border-radius: 5px;
+	box-shadow: 3px 3px 10px gray;
+}
+
+@media screen and (max-width: 480px) {
+	.caixa , .pricipal, .conteudo-benef, .mapa, .video{
+		width: auto; 
+	}
 }
