@@ -8,6 +8,7 @@ header{
 	padding: 20px 0;
 }
 
+
 .caixa{
 	position: relative;
 	width: 940px;
@@ -70,7 +71,7 @@ nav a:hover{
 	/*border-radius: 10px;*/
 	border-top-left-radius: 30px;
 	border-bottom-right-radius: 30px;
-	
+
 	/**border-color: black;
 	border-width: 2px;
 	border-style: solid;*/
@@ -137,7 +138,7 @@ form input, form textarea{
 	padding: 10px 15px;
 	width: 30%;
 	resize: none;
-} 
+}
 
 .atendimento{
 	margin: 20px 0 0 0;
@@ -192,7 +193,7 @@ footer {
 	background: url("bg-footer.jpg");
 	padding: 13px 0;
 	text-align: center;
-	
+
 }
 
 footer p {
@@ -303,6 +304,6 @@ footer p {
 
 @media screen and (max-width: 480px) {
 	.caixa , .pricipal, .conteudo-benef, .mapa, .video{
-		width: auto; 
+		width: auto;
 	}
 }
