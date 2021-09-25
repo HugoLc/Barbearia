@@ -2,12 +2,9 @@ import InfoCard from "../js/info-card.js";
 
 
 const infoCardParagrafo = `
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Nullam vehicula ultricies convallis. Orci varius natoque 
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
-    Quisque viverra dictum vestibulum. Fusce vitae erat ut metus 
-    mollis luctus id eget ante. Class aptent taciti sociosqu ad litora 
-    torquent per conubia nostra, per inceptos himenaeos.
+    Primeiro projeto realizado baseado em cursos da Alura para
+    HTML e CSS. <br><br>Revisei conceitos relacionados a estrutura do HTML e CSS
+    em uma página web, e também tratar a responsividade do site utlizando media query.
 `
 var infoCard = new InfoCard(infoCardParagrafo);
 
