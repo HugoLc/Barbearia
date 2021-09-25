@@ -278,9 +278,9 @@ footer p {
 	content: "♠  ";
 }
 
-.itens:first-child{
+/* .itens:first-child{
 	font-weight: bold;
-}
+} */
 
 .mapa{
 	padding: 3em 0;
